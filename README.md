@@ -19,6 +19,9 @@ cd AgentWriter-AI
 ```bash
 python -m venv .venv
 source .venv/bin/activate (To activate your environment)
+
+// to remove env
+rm -rf .venv
 ```
 
 4. Install required dependencies.
